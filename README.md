@@ -96,13 +96,22 @@ AQI bucket is determined using CPCB guidelines.
 | 301–400   | Very Poor    |
 | 401–500+  | Severe       |
 
+### 📊 AQI Bucket Distribution
+
+![AQI Bucket Distribution](https://github.com/SiddardhaShayini/Air-Quality-in-Indian-Cities/blob/main/screenshots/AQI%20Bucket%20Distribution.png)
+
 ---
-https://github.com/SiddardhaShayini/Air-Quality-in-Indian-Cities/blob/main/screenshots/AQI%20Bucket%20Distribution.png
+
+### 🔝 Top 10 Most Polluted Cities (Median AQI)
+
+![Top 10 Most Polluted Cities](https://github.com/SiddardhaShayini/Air-Quality-in-Indian-Cities/blob/main/screenshots/Top%2010%20Most%20Polluted%20Cities%20(Median%20AQI).png)
+
 ---
-https://github.com/SiddardhaShayini/Air-Quality-in-Indian-Cities/blob/main/screenshots/Top%2010%20Most%20Polluted%20Cities%20(Median%20AQI).png
----
-https://github.com/SiddardhaShayini/Air-Quality-in-Indian-Cities/blob/main/screenshots/Top%2010%20Least%20Polluted%20Cities%20(Median%20AQI).png
----
+
+### 🌱 Top 10 Least Polluted Cities (Median AQI)
+
+![Top 10 Least Polluted Cities](https://github.com/SiddardhaShayini/Air-Quality-in-Indian-Cities/blob/main/screenshots/Top%2010%20Least%20Polluted%20Cities%20(Median%20AQI).png)
+
 
 ## 📚 Future Enhancements
 
