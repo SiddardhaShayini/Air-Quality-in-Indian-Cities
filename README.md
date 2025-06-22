@@ -1,4 +1,4 @@
-# 🌫️ Air Quality in Indian Cities – Forecasting & Insights 🚦
+# 🌫️ Air Quality in Indian Cities – Forecasting & Insights 
 
 A machine learning project to analyze and forecast **Air Quality Index (AQI)** levels across multiple Indian cities using historical pollution data and predictive modeling. This project enables users to:
 - Predict AQI for a specific **city and future year**
