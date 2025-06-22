@@ -95,7 +95,7 @@ AQI bucket is determined using CPCB guidelines.
 | 201–300   | Poor         |
 | 301–400   | Very Poor    |
 | 401–500+  | Severe       |
-
+---
 ### 📊 AQI Bucket Distribution
 
 ![AQI Bucket Distribution](https://github.com/SiddardhaShayini/Air-Quality-in-Indian-Cities/blob/main/screenshots/AQI%20Bucket%20Distribution.png)
